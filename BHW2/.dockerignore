@@ -1,0 +1,37 @@
+﻿# Бинарные файлы и временные сборки
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+.git/
+# Rider (JetBrains) файлы
+.idea/
+*.sln.iml
+
+# Файлы пользователя
+*.user
+*.suo
+.vs/
+# Файлы настроек Visual Studio
+.vscode/
+*.code-workspace
+
+# Логи
+*.log
+
+# docker volumes и данные
+docker-compose.override.yml
+.env
+
+# Папка хранения загруженных файлов
+Files/
+
+# Миграционные файлы можно оставлять, поэтому не блокируем Migrations/
+
+# Бэкапы БД (если есть)
+*.bak
+*.sql
+
+# Секретные настройки (если используешь)
+secrets.json

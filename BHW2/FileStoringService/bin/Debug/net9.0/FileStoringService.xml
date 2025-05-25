@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileStoringService</name>
+    </assembly>
+    <members>
+        <member name="T:FileStoringService.Data.Migrations.InitialStorageCreatePostgres">
+            <inheritdoc />
+        </member>
+        <member name="M:FileStoringService.Data.Migrations.InitialStorageCreatePostgres.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FileStoringService.Data.Migrations.InitialStorageCreatePostgres.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FileStoringService.Data.Migrations.InitialStorageCreatePostgres.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\alina\\rrrr\\BHW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\data\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\data\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\services\\localfilesystemstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\services\\localfilesystemstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\data\\fileappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\data\\fileappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\controllers\\internalfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\internalfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\services\\textanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\textanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\data\\analysresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\data\\analysresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\data\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\data\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\data\\analysappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\data\\analysappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\controllers\\internalanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\controllers\\internalanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\migrations\\20250524131309_analysisschemaupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\migrations\\20250524131309_analysisschemaupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\migrations\\20250524131309_analysisschemaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\migrations\\20250524131309_analysisschemaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|d:\\users\\alina\\rrrr\\bhw2\\fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7FC22AD-01C3-4D2C-8BA3-7B4AC1268EFF}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|d:\\users\\alina\\rrrr\\bhw2\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27C735D4-9E31-4B6A-AE62-CB447218A30D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|d:\\users\\alina\\rrrr\\bhw2\\filestoringservice\\filestoringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A47900E-B759-4187-A1F6-7C8860CF0C0E}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\filestoringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "FileAnalysisService\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:51:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternalFilesController.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Controllers\\InternalFilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\InternalFilesController.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Controllers\\InternalFilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\InternalFilesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:35:52.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileAppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Data\\FileAppDbContext.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Data\\FileAppDbContext.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Data\\FileAppDbContext.cs",
+              "RelativeToolTip": "FileStoringService\\Data\\FileAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:38:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileMetadata.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Data\\FileMetadata.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Data\\FileMetadata.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Data\\FileMetadata.cs",
+              "RelativeToolTip": "FileStoringService\\Data\\FileMetadata.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:37:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Services\\IFileStorageService.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "FileStoringService\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:38:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalFileSystemStorageService.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Services\\LocalFileSystemStorageService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Services\\LocalFileSystemStorageService.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Services\\LocalFileSystemStorageService.cs",
+              "RelativeToolTip": "FileStoringService\\Services\\LocalFileSystemStorageService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:47:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:41:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAnalysisService.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Services\\IAnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\IAnalysisService.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Services\\IAnalysisService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\IAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:00:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextAnalyzer.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Services\\TextAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\TextAnalyzer.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Services\\TextAnalyzer.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\TextAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:15:14.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalysResult.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysResult.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Data\\AnalysResult.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysResult.cs",
+              "RelativeToolTip": "FileAnalysisService\\Data\\AnalysResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:09:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Data\\AnalysisResult.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysisResult.cs",
+              "RelativeToolTip": "FileAnalysisService\\Data\\AnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:14:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalysAppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysAppDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Data\\AnalysAppDbContext.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Data\\AnalysAppDbContext.cs",
+              "RelativeToolTip": "FileAnalysisService\\Data\\AnalysAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:14:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InternalAnalysisController.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Controllers\\InternalAnalysisController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\InternalAnalysisController.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Controllers\\InternalAnalysisController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\InternalAnalysisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:01:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:23:08.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\FilesController.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:04:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\AnalysisController.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:04:10.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile.txt",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Dockerfile.txt",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-24T10:01:48.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile.txt",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Dockerfile.txt",
+              "RelativeToolTip": "ApiGateway\\Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T21:25:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250524131309_AnalysisSchemaUpdate.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.Designer.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.Designer.cs",
+              "RelativeToolTip": "FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:57:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250524131309_AnalysisSchemaUpdate.cs",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.cs",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.cs",
+              "RelativeToolTip": "FileAnalysisService\\Migrations\\20250524131309_AnalysisSchemaUpdate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:57:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\appsettings.Development.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.Development.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T12:15:06.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.json",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T11:04:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile.txt",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\Dockerfile.txt",
+              "RelativeToolTip": "FileStoringService\\Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-24T09:38:35.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T09:37:44.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileStoringService.csproj",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.csproj",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T08:32:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T08:30:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\Users\\alina\\rrrr\\BHW2\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T08:30:21.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
