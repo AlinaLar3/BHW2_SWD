@@ -4,7 +4,7 @@ using FileAnalysisService.Services;
 namespace FileAnalysisService;
 
 [ApiController]
-[Route("analyze")]// Базовый маршрут для контроллера анализа
+[Route("analyze")]// Р‘Р°Р·РѕРІС‹Р№ РјР°СЂС€СЂСѓС‚ РґР»СЏ РєРѕРЅС‚СЂРѕР»Р»РµСЂР° Р°РЅР°Р»РёР·Р°
 public class InternalAnalysisController : ControllerBase
 {
     private readonly IAnalysisService _service;
@@ -14,7 +14,7 @@ public class InternalAnalysisController : ControllerBase
         _service = service;
     }
 
-    [HttpGet("{fileId:guid}")] // Маршрут для анализа файла по его ID
+    [HttpGet("{fileId:guid}")] // РњР°СЂС€СЂСѓС‚ РґР»СЏ Р°РЅР°Р»РёР·Р° С„Р°Р№Р»Р° РїРѕ РµРіРѕ ID
     public IActionResult Analyze(Guid fileId)
     {
         var result = _service.WordAnalysis(fileId);
