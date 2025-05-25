@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 namespace ApiGateway;
 
 [ApiController]
-[Route("files")] // Базовый маршрут для файловых операций
+[Route("files")] // Р‘Р°Р·РѕРІС‹Р№ РјР°СЂС€СЂСѓС‚ РґР»СЏ С„Р°Р№Р»РѕРІС‹С… РѕРїРµСЂР°С†РёР№
 public class FilesController : ControllerBase
 {
     private const string FileStorageBaseUrl = "http://file-storage:8001";
@@ -20,7 +20,7 @@ public class FilesController : ControllerBase
         _httpClientFactory = httpClientFactory;
     }
 
-    [HttpPost("upload")] // Маршрут для загрузки файла
+    [HttpPost("upload")] // РњР°СЂС€СЂСѓС‚ РґР»СЏ Р·Р°РіСЂСѓР·РєРё С„Р°Р№Р»Р°
     public async Task<IActionResult> UploadFile(IFormFile file)
     {
         var client = _httpClientFactory.CreateClient();
@@ -32,7 +32,7 @@ public class FilesController : ControllerBase
         fileContent.Headers.ContentType = MediaTypeHeaderValue.Parse(file.ContentType);
         content.Add(fileContent, "file", file.FileName); 
 
-        // Перенаправление запроса в FileStoringService
+        // РџРµСЂРµРЅР°РїСЂР°РІР»РµРЅРёРµ Р·Р°РїСЂРѕСЃР° РІ FileStoringService
         var response = await client.PostAsync($"{FileStorageBaseUrl}/files/upload", content);
         if (!response.IsSuccessStatusCode)
         {
@@ -44,11 +44,11 @@ public class FilesController : ControllerBase
         return Content(result, "application/json");
     }
 
-    [HttpGet("{fileId:guid}")] // Маршрут для скачивания файла по ID
+    [HttpGet("{fileId:guid}")] // РњР°СЂС€СЂСѓС‚ РґР»СЏ СЃРєР°С‡РёРІР°РЅРёСЏ С„Р°Р№Р»Р° РїРѕ ID
     public async Task<IActionResult> GetFile(Guid fileId)
     {
         var client = _httpClientFactory.CreateClient();
-        // Перенаправление запроса в FileStoringService
+        // РџРµСЂРµРЅР°РїСЂР°РІР»РµРЅРёРµ Р·Р°РїСЂРѕСЃР° РІ FileStoringService
         var file = await client.GetAsync($"{FileStorageBaseUrl}/files/download/{fileId}");
         if (!file.IsSuccessStatusCode)
         {
