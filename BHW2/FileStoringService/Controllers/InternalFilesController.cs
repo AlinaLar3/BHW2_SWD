@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FileStoringService;
 
 [ApiController]
-[Route("files")] // Базовый маршрут контроллера, разрешается в /InternalFiles
+[Route("files")]  // Р‘Р°Р·РѕРІС‹Р№ РјР°СЂС€СЂСѓС‚ РєРѕРЅС‚СЂРѕР»Р»РµСЂР°, СЂР°Р·СЂРµС€Р°РµС‚СЃСЏ РІ /InternalFiles
 public class InternalFilesController : ControllerBase
 {
     private readonly IFileStorageService _fileService;
@@ -15,7 +15,7 @@ public class InternalFilesController : ControllerBase
         _fileService = fileService;
     }
 
-    [HttpGet("download/{id:guid}")] // Маршрут для скачивания файла по его ID
+    [HttpGet("download/{id:guid}")] // РњР°СЂС€СЂСѓС‚ РґР»СЏ СЃРєР°С‡РёРІР°РЅРёСЏ С„Р°Р№Р»Р° РїРѕ РµРіРѕ ID
     public IActionResult Download(Guid id)
     {
         try
@@ -38,7 +38,7 @@ public class InternalFilesController : ControllerBase
         }
     }
 
-    [HttpPost("upload")] // Маршрут для загрузки нового файла
+    [HttpPost("upload")]// РњР°СЂС€СЂСѓС‚ РґР»СЏ Р·Р°РіСЂСѓР·РєРё РЅРѕРІРѕРіРѕ С„Р°Р№Р»Р°
     [Consumes("multipart/form-data")]
     public IActionResult UploadFile(IFormFile file)
     {
