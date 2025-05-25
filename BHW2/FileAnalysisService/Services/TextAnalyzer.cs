@@ -32,19 +32,17 @@ namespace FileAnalysisService.Services
             }
 
             var client = _httpClientFactory.CreateClient();
-            string text = GetFile(fileId, client); // Получение содержимого файла из FileStoringService
+            string text = GetFile(fileId, client); // РџРѕР»СѓС‡РµРЅРёРµ СЃРѕРґРµСЂР¶РёРјРѕРіРѕ С„Р°Р№Р»Р° РёР· FileStoringService
             var wordCount = Regex.Matches(text, @"\b\w+\b").Count;
             var paragraphCount = text.Split(new[] { "\r\n\r\n", "\n\n" }, StringSplitOptions.RemoveEmptyEntries).Length; 
             var symbolCount = text.Count(char.IsLetter);
             
-            var fileEntry = _db.Files.SingleOrDefault(f => f.FileId == fileId); // Поиск существующей записи файла или создание новой
+            var fileEntry = _db.Files.SingleOrDefault(f => f.FileId == fileId); // РџРѕРёСЃРє СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµР№ Р·Р°РїРёСЃРё С„Р°Р№Р»Р° РёР»Рё СЃРѕР·РґР°РЅРёРµ РЅРѕРІРѕР№
             if (fileEntry == null)
             {
                 fileEntry = new AnalysisResult { FileId = fileId };
                 _db.Files.Add(fileEntry);
             }
-
-            // Инициализация AnalysResults, если null, и обновление значений
             if (fileEntry.AnalysResults == null)
             {
                 fileEntry.AnalysResults = new AnalysResult();
