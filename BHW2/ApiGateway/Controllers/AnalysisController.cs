@@ -1,10 +1,9 @@
-// AnalysisController.cs
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiGateway;
 
 [ApiController]
-[Route("analyze")] // Базовый маршрут для запросов анализа
+[Route("analyze")] // Р‘Р°Р·РѕРІС‹Р№ РјР°СЂС€СЂСѓС‚ РґР»СЏ Р·Р°РїСЂРѕСЃРѕРІ Р°РЅР°Р»РёР·Р°
 public class AnalysisController : ControllerBase
 {
     private const string AnalysBaseUrl = "http://file-analysis:8002";
@@ -19,7 +18,7 @@ public class AnalysisController : ControllerBase
     public async Task<IActionResult> Analyze(Guid fileId)
     {
         var client = _httpClientFactory.CreateClient();
-        // Перенаправление запроса на FileAnalysisService
+        // РџРµСЂРµРЅР°РїСЂР°РІР»РµРЅРёРµ Р·Р°РїСЂРѕСЃР° РЅР° FileAnalysisService
         var response = await client.GetAsync($"{AnalysBaseUrl}/analyze/{fileId}");
         var result = await response.Content.ReadAsStringAsync();
 
