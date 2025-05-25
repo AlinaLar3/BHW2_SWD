@@ -1,5 +1,5 @@
 using System;
-using System.Net.Http; // Используем IHttpClientFactory
+using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using System.Text;
